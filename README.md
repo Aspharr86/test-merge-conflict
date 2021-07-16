@@ -1,2 +1,3 @@
 When conflict happens...
 * Cancel the merge
+* Understand the conflict
